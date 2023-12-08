@@ -6746,6 +6746,95 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 165
   m_LocalEulerAnglesHint: {x: -23.014, y: -27.887, z: 32.731}
+--- !u!1001 &414502435
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 4715d62b4de8f424ba60df486bc70243,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 384
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4715d62b4de8f424ba60df486bc70243,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 141.08276
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4715d62b4de8f424ba60df486bc70243,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 236.79892
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4715d62b4de8f424ba60df486bc70243,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 391.99347
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4715d62b4de8f424ba60df486bc70243,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 31.951
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4715d62b4de8f424ba60df486bc70243,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.1113
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4715d62b4de8f424ba60df486bc70243,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -247.678
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4715d62b4de8f424ba60df486bc70243,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9927163
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4715d62b4de8f424ba60df486bc70243,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4715d62b4de8f424ba60df486bc70243,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.12047596
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4715d62b4de8f424ba60df486bc70243,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4715d62b4de8f424ba60df486bc70243,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4715d62b4de8f424ba60df486bc70243,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -13.839
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 4715d62b4de8f424ba60df486bc70243,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 4715d62b4de8f424ba60df486bc70243,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6a9900b6e071cea4cad2909b11f5399e, type: 2}
+    - target: {fileID: 919132149155446097, guid: 4715d62b4de8f424ba60df486bc70243,
+        type: 3}
+      propertyPath: m_Name
+      value: Sand Bank ConCave (3)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 4715d62b4de8f424ba60df486bc70243, type: 3}
 --- !u!1 &422701349
 GameObject:
   m_ObjectHideFlags: 0
