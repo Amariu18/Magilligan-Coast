@@ -9,6 +9,8 @@ EditorBuildSettings:
     path: Assets/Ethan Folder/Magilligan Beach.unity
     guid: 49a5351d08d22614ca07bc40b9acca8e
   m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: e6a27fce8098cad4f8fcadc44337e3bc,
+      type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 5578f73bc1265b2469443907c9713da7,
       type: 2}
     com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 7cccbff72bd2cbf4686cfc00c4e5555e,
