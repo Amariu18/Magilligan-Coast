@@ -10,11 +10,11 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5621e5ad1b9084f8bb66de8251cfd5a3, type: 3}
-  m_Name: Space_Feature_Demo
+  m_Name: Space_3
   m_EditorClassIdentifier: 
   version: 1
-  sku: 654be16c2ce2dbbd2fe61068
-  packageName: Magillian
+  sku: 65bd1102aa9e529488aac4c4
+  packageName: Magilligan
   thumbnail: {fileID: 2800000, guid: df49727c6c332fc438ba1bdc37fb103b, type: 3}
   savedProjectSettings: {fileID: 11400000, guid: b4d3f3931508d4e3381693ee23f6fe04,
     type: 2}
@@ -24,5 +24,5 @@ MonoBehaviour:
   embeddedPackageAssets: []
   settings:
     serverInstancingEnabled: 1
-    serverCapacitySetting: 0
-    serverInstanceCapacity: 50
+    serverCapacitySetting: 1
+    serverInstanceCapacity: 16
